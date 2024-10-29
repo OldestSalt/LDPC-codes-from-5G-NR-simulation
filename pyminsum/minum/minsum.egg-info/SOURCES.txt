@@ -1,0 +1,7 @@
+module.cpp
+pyproject.toml
+setup.py
+minsum.egg-info/PKG-INFO
+minsum.egg-info/SOURCES.txt
+minsum.egg-info/dependency_links.txt
+minsum.egg-info/top_level.txt

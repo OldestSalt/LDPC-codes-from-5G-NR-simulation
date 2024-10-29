@@ -1,0 +1,5 @@
+﻿  module.cpp
+D:\YandexDisk\pyminsum\minum\module.cpp(54,11): warning C4244: инициализация: преобразование "pybind11::ssize_t" в "int", возможна потеря данных
+D:\YandexDisk\pyminsum\minum\module.cpp(55,11): warning C4244: инициализация: преобразование "pybind11::ssize_t" в "int", возможна потеря данных
+     Создается библиотека D:\YandexDisk\pyminsum\x64\Debug\minsum.lib и объект D:\YandexDisk\pyminsum\x64\Debug\minsum.exp
+  minum.vcxproj -> D:\YandexDisk\pyminsum\x64\Debug\minsum.pyd
